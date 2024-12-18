@@ -1,7 +1,8 @@
 ## Hi there, I'm Darshan Kacha 👋
 Welcome to my GitHub profile! I'm a passionate Mobile Application Developer specializing in cross-platform app development. I love learning new technologies and am constantly exploring innovative ways to enhance my skills and build exciting mobile experiences.
 
-About Me
+##About Me
+
 🔨 Current Work: Cross-platform mobile development using React Native.
 
 🌱 Learning: I’m always on the lookout for new technologies and trends in mobile development, including AI, Cloud integration, and advanced UI/UX practices.
