@@ -3,14 +3,19 @@ Welcome to my GitHub profile! I'm a passionate Mobile Application Developer spec
 
 About Me
 🔨 Current Work: Cross-platform mobile development using React Native.
+
 🌱 Learning: I’m always on the lookout for new technologies and trends in mobile development, including AI, Cloud integration, and advanced UI/UX practices.
+
 🎧 Hobbies: Apart from coding, I enjoy listening to music—it helps me stay focused and relaxed. 🎶
+
 💼 Freelancer: I’m open to freelance opportunities. If you're looking to build amazing mobile applications, feel free to reach out!
+
 💻 Technologies & Tools I Use
 Languages: JavaScript, TypeScript
 Frameworks: React Native
 Tools: Firebase, Git, REST APIs, SQLite, and more...
 Platforms: Android, iOS
+
 📬 Get in Touch
 Email: darshan.kacha12@gmail.com
 Freelance: Available for freelance mobile app development work. Let's create something amazing together!
