@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Mobile Application Developer spec
 💼 Freelancer: I’m open to freelance opportunities. If you're looking to build amazing mobile applications, feel free to reach out!
 
 💻 Technologies & Tools I Use
+
 Languages: JavaScript, TypeScript
 
 Frameworks: React Native
