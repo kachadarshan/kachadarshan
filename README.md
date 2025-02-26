@@ -13,8 +13,11 @@ Welcome to my GitHub profile! I'm a passionate Mobile Application Developer spec
 
 💻 Technologies & Tools I Use
 Languages: JavaScript, TypeScript
+
 Frameworks: React Native
-Tools: Firebase, Git, REST APIs, SQLite, and more...
+
+Tools: Firebase, Git, REST APIs, Redux, ReduxJs Toolkit, Redux Persist, Redux Saga, React Navigation, Websocket, PushNotifications and more...
+
 Platforms: Android, iOS
 
 📬 Get in Touch
